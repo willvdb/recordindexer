@@ -1,0 +1,26 @@
+<users> 
+ 	<user>
+      <username>test1</username>
+      <password>test1</password>
+      <firstname>Test</firstname>
+      <lastname>One</lastname>
+      <email>test1@gmail.com</email>
+      <indexedrecords>0</indexedrecords>
+    </user>
+    <user>
+      <username>test2</username>
+      <password>test2</password>
+      <firstname>Test</firstname>
+      <lastname>Two</lastname>
+      <email>test2@gmail.com</email>
+      <indexedrecords>0</indexedrecords>
+    </user>
+    <user>
+      <username>sheila</username>
+      <password>parker</password>
+      <firstname>Sheila</firstname>
+      <lastname>Parker</lastname>
+      <email>sheila.parker@gmail.com</email>
+      <indexedrecords>0</indexedrecords>
+    </user>
+    </users>
