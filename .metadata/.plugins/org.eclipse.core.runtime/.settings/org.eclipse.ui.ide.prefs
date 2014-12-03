@@ -1,5 +1,6 @@
+PROBLEMS_FILTERS_MIGRATE=true
 TASKS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
-platformState=1412210642131
-quickStart=true
+platformState=1415388177907
+quickStart=false
 tipsAndTricks=true
